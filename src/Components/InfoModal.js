@@ -7,7 +7,7 @@ import {
 	PersonCircle,
 } from 'react-bootstrap-icons';
 // import 'react-calendar/dist/Calendar.css';
-import 'react-date-range/dist/styles.css'; // main style file
+import 'react-date-range/dist/styles.css';
 import 'react-date-range/dist/theme/default.css';
 import { DateRangePicker } from 'react-date-range';
 import moment from 'moment';
